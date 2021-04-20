@@ -1,25 +1,23 @@
 ---
-title: Настройка подписки разработчика Microsoft 365
-description: Настройте подписку разработчика Microsoft 365 для создания решений независимо от рабочей среды.
+title: Настройка подписки на песочницу для разработчиков Microsoft 365
+description: Настройте подписку разработчика Microsoft 365 для создания решений, независимых от рабочей среды.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 4aa500e0688c43186d574e94e3f94081a87b89e4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601318"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890184"
 ---
-# <a name="set-up-a-microsoft-365-developer-subscription"></a>Настройка подписки разработчика Microsoft 365 
+# <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Настройка подписки на песочницу для разработчиков Microsoft 365 
 
 Настройте подписку разработчика Microsoft 365 для создания решений независимо от рабочей среды. Это подписка Microsoft 365 E5 для разработчиков с 25 пользовательскими лицензиями. Она действует в течение 90 дней и бесплатна для использования только в целях разработки (решения для написания кода). 
 
-Пользователи, присоединившиеся к программе до 25 августа 2019 г., используют подписку разработчика Office 365 E3.
-
 > [!NOTE] 
-> Чтобы настроить подписку, необходимо сначала [присоединиться к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md). После присоединения вы увидите вариант для настройки подписки.
+> Чтобы настроить подписку, необходимо сначала [присоединиться к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md) непосредственно или через Visual Studio Professional или Enterprise (если у вас есть подписка). После присоединения вы увидите возможность настройки подписки.
 
-## <a name="set-up-your-subscription"></a>Настройка подписки
+## <a name="set-up-your-microsoft-365-e5-sandbox-subscription"></a>Настройте подписку Microsoft 365 E5 на песочницу для разработчиков
 
 1. Чтобы получить подписку разработчика Microsoft 365, на странице профиля нажмите **Настроить подписку**.
 

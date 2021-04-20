@@ -2,6 +2,8 @@
 
 Этот проект соответствует [правилам поведения Майкрософт, касающимся обращения с открытым кодом](https://opensource.microsoft.com/codeofconduct/).
 
-Для получения дополнительных сведений обратитесь к разделу " [вопросы и правила](https://opensource.microsoft.com/codeofconduct/faq/)". 
+Дополнительные сведения см. в [faQ Кодекса поведения.](https://opensource.microsoft.com/codeofconduct/faq/) 
 
-Для получения дополнительных вопросов или комментариев обращайтесь в [opencode@microsoft.com](mailto:opencode@microsoft.com). 
+Дополнительные вопросы или комментарии обратитесь к opencode@microsoft.com [.](mailto:opencode@microsoft.com) 
+
+Получите бесплатную песочницу, средства и другие ресурсы, необходимые для создания решений для платформы [разработчиков Microsoft 365.](https://developer.microsoft.com/en-us/microsoft-365/dev-program) 
