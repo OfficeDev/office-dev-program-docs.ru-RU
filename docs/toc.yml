@@ -11,6 +11,6 @@
 - name: Срок действия подписки и продление
   href: subscription-expiration-and-renewal.md
 - name: Вопросы и ответы о программе для разработчиков
-  href: microsoft-365-developer-program-faq.md
+  href: microsoft-365-developer-program-faq.yml
 - name: Условия
   href: terms-and-conditions.md
