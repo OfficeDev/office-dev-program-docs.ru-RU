@@ -3,12 +3,12 @@ title: Настройка подписки на песочницу для раз
 description: Настройте подписку разработчика Microsoft 365 для создания решений, независимых от рабочей среды.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: c35814955abb2158a076d6ca566c3bf76fc5289f
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890184"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206918"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Настройка подписки на песочницу для разработчиков Microsoft 365 
 
@@ -72,7 +72,7 @@ ms.locfileid: "51890184"
 
 Внутренним службам, таким как SharePoint и Exchange, может потребоваться некоторое время для подготовки к подписке. На этом этапе некоторые значки в средстве запуска приложений и на домашней странице отображаются как **Настройка (это приложение по-прежнему настраивается)**. Это займет не более часа.
 
-После завершения подготовки новую подписку на Microsoft 365 можно использовать для разработки. Срок действия подписки истекает через 90 дней. Чтобы продлить его, см. раздел [Когда срок действия моей подписки будет истекать, смогу ли я его продлить?](microsoft-365-developer-program-faq.md#renew-subscription)
+После завершения подготовки новую подписку на Microsoft 365 можно использовать для разработки. Срок действия подписки истекает через 90 дней. Чтобы продлить его, см. раздел [Когда срок действия моей подписки будет истекать, смогу ли я его продлить?](microsoft-365-developer-program-faq.yml#renew-subscription)
 
 Также рекомендуется включить варианты получения выпусков, чтобы обеспечить скорейший доступ к новейшим возможностям Microsoft 365. Дополнительные сведения см. в статье [Настройка вариантов стандартного или целевого получения выпусков](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
@@ -86,7 +86,7 @@ ms.locfileid: "51890184"
 
 ## <a name="see-also"></a>См. также
 
-- [Присоединяйтесь к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md)
+- [Присоединяйтесь к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md)
 - [Создание решений для Microsoft 365 с помощью подписки](build-microsoft-365-solutions.md)
 - [Продление подписки с истекающим сроком действия](subscription-expiration-and-renewal.md)
-- [Вопросы и ответы о программе для разработчиков Microsoft 365](microsoft-365-developer-program-faq.md)
+- [Вопросы и ответы о программе для разработчиков Microsoft 365](microsoft-365-developer-program-faq.yml)
