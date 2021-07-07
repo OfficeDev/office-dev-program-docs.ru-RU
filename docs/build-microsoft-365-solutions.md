@@ -2,12 +2,12 @@
 title: Создание решений Microsoft 365 с помощью подписки для разработчиков
 description: Используйте подписку для разработчиков Microsoft 365, чтобы создавать нужные решения.
 localization_priority: Priority
-ms.openlocfilehash: 2b2e68eb2e9ce474cf6e936c72aedd441e873ff3
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890139"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206897"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Создание решений Microsoft 365 с помощью подписки для разработчиков
 
@@ -57,8 +57,7 @@ Microsoft Teams - это рабочее пространство на основ
 
 Платформа SharePoint Framework (SPFx) — это модель страниц и веб-частей, которая обеспечивает полную поддержку клиентской разработки SharePoint, простую интеграцию с данными SharePoint и поддержку инструментов с открытым кодом. Благодаря платформе SharePoint Framework вы можете использовать современные веб-технологии и инструменты в любой среде разработки для создания полезных компонентов и адаптивных приложений, готовых к работе на мобильных устройствах.
 
-Чтобы автоматически настроить песочницу для пробного использования сценариев SharePoint, установите пример пакета данных SharePoint:
-Дополнительные сведения см. в статьях:
+Чтобы автоматически настроить песочницу для пробного использования сценариев SharePoint, установите пример пакета данных SharePoint. Дополнительные сведения см. в следующих статьях:
 
 - [Установка примеров пакетов данных](install-sample-packs.md)
 - [Настройка подписки разработчика на SPFx](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -66,7 +65,7 @@ Microsoft Teams - это рабочее пространство на основ
 
 ## <a name="sharepoint-add-ins"></a>Надстройки SharePoint 
 
-Надстройка SharePoint — это автономный функциональный модуль, расширяющий возможности веб-сайтов SharePoint для решения определенной бизнес-задачи. Можно создавать два типа надстроек SharePoint (с размещением в SharePoint и у поставщика). Дополнительные сведения см. в статье [Надстройки SharePoint](/sharepoint/dev/sp-add-ins/sharepoint-add-ins).
+Надстройка SharePoint — это автономный функциональный модуль, расширяющий возможности веб-сайтов SharePoint для решения определенной бизнес-задачи. Можно создавать два типа надстроек SharePoint (с размещением в SharePoint и у поставщика). Дополнительные сведения см. в статье [Надстройки SharePoint](/sharepoint/dev/sp-add-ins/sharepoint-add-ins).
 
 Процесс настройки и написания кода с помощью надстроек SharePoint:
 
@@ -87,14 +86,14 @@ Power Apps также служит надежной платформой, кот
 
 Подробнее:
 
-- [Power Apps](https://docs.microsoft.com/ru-RU/powerapps/)
+- [Power Apps](/powerapps/)
 - Посмотрите [демонстрации Power Apps](https://powerapps.microsoft.com/demo/)
 - Посмотрите видео на канале [Power Apps](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) в YouTube
 
 
 ## <a name="see-also"></a>См. также
 
-- [Присоединяйтесь к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md)
+- [Присоединяйтесь к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md)
 - [Настройка подписки разработчика Microsoft 365](microsoft-365-developer-program-get-started.md) 
 - [Продление подписки с истекающим сроком действия](subscription-expiration-and-renewal.md)
-- [Вопросы и ответы о программе для разработчиков Microsoft 365](microsoft-365-developer-program-faq.md)
+- [Вопросы и ответы о программе для разработчиков Microsoft 365](microsoft-365-developer-program-faq.yml)
