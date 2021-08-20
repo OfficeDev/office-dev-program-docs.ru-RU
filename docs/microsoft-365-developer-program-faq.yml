@@ -4,16 +4,16 @@ metadata:
   description: Ответы на часто задаваемые вопросы о программе для разработчиков Microsoft 365.
   ms.date: 04/01/2019
   localization_priority: Priority
-  ms.openlocfilehash: 231fc0fa6d6a8ab2fb12e154542a637d829ef6bf
-  ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+  ms.openlocfilehash: 64c0459ebee710b3d6d9acb9cf6baf9cb4b077a3
+  ms.sourcegitcommit: 24feefce06cf63bbb5408c816f7d06994b73f5d3
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 06/30/2021
-  ms.locfileid: "53206928"
+  ms.lasthandoff: 08/20/2021
+  ms.locfileid: "58408463"
 title: Вопросы и ответы о программе для разработчиков Microsoft 365
 summary: Ниже представлены вопросы и ответы о программе для разработчиков Microsoft 365.
 sections:
-- name: Игнорируется
+- name: Отклонено
   questions:
   - question: >
       Что такое программа для разработчиков Microsoft 365 и кому следует к ней присоединиться?
@@ -82,14 +82,14 @@ sections:
       <a name="account-types"> </a>
   - question: >
       Как перейти с подписки Office 365 E3 на подписку Microsoft 365 E5?
-    answer: "В настоящее время только новые участники программы для разработчиков Microsoft 365 автоматически получают подписку разработчика Microsoft 365 E5. Существующим пользователям способ перехода на подписку Microsoft 365 E5 будет преложен в будущем. Мы работаем над тем, чтобы переход на Microsoft 365 E5 был доступен всем участникам программы для разработчиков Office 365. \n"
+    answer: "В настоящее время только новые участники программы для разработчиков Microsoft 365 автоматически получают подписку разработчика Microsoft 365 E5. Существующим пользователям будет предложено перейти на подписку Microsoft 365 E5. \n\nЕсли вы решите перейти на подписку Microsoft 365 E5, для переноса данных можно использовать бесплатный инструмент [Microsoft Mover.](https://mover.io/) См. также следующие ресурсы:\n\n- [Перенос почтовых ящиков из одного Microsoft 365 клиента в другой](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Использование PowerShell для выполнения поэтапной миграции в Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Миграция контента в Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       Для чего нужно привязывать учетную запись GitHub?
     answer: >
       Когда вы присоединяетесь к программе разработчика Microsoft 365, на странице [Мои настройки](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) вы можете привязать учетную запись GitHub к учетной записи программы разработчика. Привязка вашей учетной записи GitHub будет начисляться на продление подписки на песочницу разработчика Microsoft 365. Вы также можете отключить привязку своей учетной записи, перейдя в раздел [Связанные учетные записи](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) на странице **Мои настройки**.
   - question: >
       Можно ли выбирать между подписками Office 365 E3 и Microsoft 365 E5?
-    answer: "В настоящий момент подписка Microsoft 365 E5 предлагается только новым участникам программы для разработчиков. У участников с действующей подпиской Office 365 E3 будет возможность сохранить подписку и продлевать ее, если им не требуются новые возможности, предлагаемые в Microsoft 365 E5. Участники программы для разработчиков могут иметь только одну подписку.  \n\nКогда появится возможность перехода для существующих участников программы, мы предоставим дополнительные сведения о способе перехода. \n"
+    answer: "В настоящее время новым участникам программы разработчиков предоставляется только Microsoft 365 E5 подписка. Существующие члены с Office 365 E3 подпиской будут иметь возможность сохранить текущую подписку и продолжать ее обновлять, если им не нужны новые возможности, предлагаемые в Microsoft 365 E5, или одно разовая обновление до Microsoft 365 E5 подписки. Участники программы разработчика могут иметь только одну подписку.  \n"
   - question: "Являясь партнером корпорации Майкрософт, могу ли я получить подписку? \n"
     answer: "Да, следуйте [этим инструкциям](microsoft-365-developer-program.md), чтобы присоединиться к программе для разработчиков Microsoft 365 и настроить подписку разработчика Microsoft 365. Но если у вас уже есть подписка на Visual Studio Enterprise или Visual Studio Professional, вы можете в дополнение к ней получить льготную подписку разработчика Microsoft 365. Чтобы получить ее, перейдите на страницу [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). За дополнительными сведениями обратитесь в [Центр обслуживания клиентов Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
@@ -128,8 +128,8 @@ sections:
     answer: "Если у вас возникли проблемы при настройке подписки, ознакомьтесь со следующими ресурсами поддержки:\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n- [Центр обслуживания клиентов Visual Studio](https://www.visualstudio.com/subscriptions/support/)\n"
   - question: >
       См. также
-    answer: >
-      - [Присоединяйтесь к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md)
+    answer: >-
+      - [Присоединяйтесь к программе для разработчиков Microsoft 365](microsoft-365-developer-program.md)
 
       - [Настройка подписки разработчика Microsoft 365](microsoft-365-developer-program-get-started.md)
 
