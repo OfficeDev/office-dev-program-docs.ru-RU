@@ -3,13 +3,13 @@ metadata:
   title: Вопросы и ответы о программе для разработчиков Microsoft 365
   description: Ответы на часто задаваемые вопросы о программе для разработчиков Microsoft 365.
   ms.date: 04/01/2019
-  localization_priority: Priority
-  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
-  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
+  ms.localizationpriority: high
+  ms.openlocfilehash: ca503a50bd32678583899ecf23aa8b15c4735322
+  ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "58683137"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "59396702"
 title: Вопросы и ответы о программе для разработчиков Microsoft 365
 summary: Ниже представлены вопросы и ответы о программе для разработчиков Microsoft 365.
 sections:
@@ -90,6 +90,10 @@ sections:
   - question: >
       Можно ли выбирать между подписками Office 365 E3 и Microsoft 365 E5?
     answer: "В настоящее время новым участникам программы разработчиков предоставляется только Microsoft 365 E5 подписка. Существующие члены с Office 365 E3 подпиской будут иметь возможность сохранить текущую подписку и продолжать ее обновлять, если им не нужны новые возможности, предлагаемые в Microsoft 365 E5, или одно разовая обновление до Microsoft 365 E5 подписки. Участники программы разработчика могут иметь только одну подписку.  \n"
+  - question: >
+      Является ли Microsoft 365 подписка разработчика на границу данных ЕС для Microsoft Cloud (EUDB)?
+    answer: >
+      Нет. Бесплатная подписка Microsoft 365 разработчика подчиняется только Условиям и [Условиям,](terms-and-conditions.md) а не обязательствам EUDB. Однако в процессе предварительной обработки вы можете выбрать страну или регион для подписки.
   - question: "Являясь партнером корпорации Майкрософт, могу ли я получить подписку? \n"
     answer: "Да, следуйте [этим инструкциям](microsoft-365-developer-program.md), чтобы присоединиться к программе для разработчиков Microsoft 365 и настроить подписку разработчика Microsoft 365. Но если у вас уже есть подписка на Visual Studio Enterprise или Visual Studio Professional, вы можете в дополнение к ней получить льготную подписку разработчика Microsoft 365. Чтобы получить ее, перейдите на страницу [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). За дополнительными сведениями обратитесь в [Центр обслуживания клиентов Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >

@@ -1,13 +1,13 @@
 ---
 title: Добро пожаловать в программу Microsoft 365 для разработчиков
 description: Присоединяйтесь к Программе разработчиков Microsoft 365, чтобы разрабатывать решения Microsoft 365 независимо от вашей производственной среды.
-localization_priority: Priority
-ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206904"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396695"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Добро пожаловать в программу разработчиков Microsoft 365
 
@@ -17,7 +17,7 @@ ms.locfileid: "53206904"
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Присоединяйтесь к программе разработчиков Microsoft 365
 
-1. Перейдите на страницу [Присоединиться к программе для разработчиков Microsoft 365](https://developer.microsoft.com/ru-RU/microsoft-365/dev-program). 
+1. Перейдите на страницу [Присоединиться к программе для разработчиков Microsoft 365](https://developer.microsoft.com/en-us/microsoft-365/dev-program). 
 
 2. В правом верхнем углу выберите пункт **Войти**, чтобы выполнить вход с помощью учетной записи Майкрософт или электронной почты с поддержкой Azure Active Directory.
 

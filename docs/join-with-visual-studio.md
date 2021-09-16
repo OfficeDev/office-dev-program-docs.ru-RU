@@ -1,13 +1,13 @@
 ---
 title: Присоединяйтесь к программе для разработчиков Microsoft 365 через подписку на Visual Studio Professional или Enterprise
 description: Все новые участники программы для разработчиков Microsoft 365 (в том числе подписчики Visual Studio Professional и Enterprise) могут получить подписку на Microsoft 365 E5 для разработчиков (Windows не включена).
-localization_priority: Priority
-ms.openlocfilehash: 43750cecdc07fbb382e09bf54b98c2d24031a03d
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: 863da13cd1126a031f26d043ca824d2c27784dd4
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890214"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396709"
 ---
 # <a name="join-the-microsoft-365-developer-program-with-a-visual-studio-professional-or-enterprise-subscription"></a>Присоединяйтесь к программе для разработчиков Microsoft 365 через подписку на Visual Studio Professional или Enterprise
 

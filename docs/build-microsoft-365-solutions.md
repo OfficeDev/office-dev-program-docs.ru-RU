@@ -1,13 +1,13 @@
 ---
 title: Создание решений Microsoft 365 с помощью подписки для разработчиков
 description: Используйте подписку для разработчиков Microsoft 365, чтобы создавать нужные решения.
-localization_priority: Priority
-ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206897"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396678"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Создание решений Microsoft 365 с помощью подписки для разработчиков
 
@@ -45,7 +45,7 @@ Microsoft Teams - это рабочее пространство на основ
 
 Подробности см. в статье [Установка примеров пакетов данных](install-sample-packs.md). 
 
-Подробнее о том, как начать работу с Microsoft Graph, см. в статье [Начало создания приложений Microsoft Graph](https://developer.microsoft.com/ru-RU/graph/get-started) или [Краткое руководство](https://developer.microsoft.com/ru-RU/graph/quick-start) по Microsoft Graph.
+Подробнее о том, как начать работу с Microsoft Graph, см. в статье [Начало создания приложений Microsoft Graph](https://developer.microsoft.com/en-us/graph/get-started) или [Краткое руководство](https://developer.microsoft.com/en-us/graph/quick-start) по Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Надстройки Office
 
