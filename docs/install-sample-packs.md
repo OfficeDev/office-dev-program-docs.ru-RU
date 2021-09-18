@@ -1,13 +1,13 @@
 ---
 title: Использование примеров пакетов данных в подписке программы для разработчиков Microsoft 365
 description: Узнайте, как установить примеры пакетов данных в подписке разработчика, чтобы быстро подготовить среду в песочнице.
-localization_priority: Priority
-ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: fb111d13a940fc5dffbba12b092a8f2bfd313872
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890153"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396723"
 ---
 # <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Использование примеров пакетов данных в подписке программы для разработчиков Microsoft 365
 
@@ -57,7 +57,7 @@ ms.locfileid: "51890153"
 
 ![Снимок экрана: диалоговое окно согласия на предоставление доступа](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
-5. Настройте пароли для всех пользователей из примера. Для удобства администрирования всех вымышленных пользователей потребуется задать один общий пароль.
+5. Настройте пароли для всех пользователей из примера. Для удобства администрирования всех вымышленных пользователей задайте один общий пароль.
 
 ![Снимок экрана: диалоговое окно добавления общего пароля для пользователей](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
@@ -197,7 +197,7 @@ ms.locfileid: "51890153"
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>Можно ли установить примеры пакетов данных в другие подписки на Microsoft 365?
 
-Нет. Эти примеры пакетов данных совместимы только с подпиской разработчика на Microsoft 365, предоставляемой в рамках программы для разработчиков Microsoft 365.
+Нет. Эти примеры пакетов данных совместимы только с подпиской разработчика Microsoft 365, предоставляемой в рамках программы для разработчиков Microsoft 365.
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>Как просмотреть примеры данных в своей подписке?
 
