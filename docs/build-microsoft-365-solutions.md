@@ -2,12 +2,12 @@
 title: Создание решений Microsoft 365 с помощью подписки для разработчиков
 description: Используйте подписку для разработчиков Microsoft 365, чтобы создавать нужные решения.
 ms.localizationpriority: high
-ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
+ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396678"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725022"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Создание решений Microsoft 365 с помощью подписки для разработчиков
 
@@ -76,7 +76,7 @@ Microsoft Teams - это рабочее пространство на основ
 
 ## <a name="power-apps"></a>Power Apps
 
-Power Apps входит в вашу лицензию на подписку разработчика Microsoft 365 E5. 
+Power Apps для Office 365 входит в вашу лицензию на подписку разработчика Microsoft 365 E5. Это означает, что вы можете создавать и тестировать неограниченные приложения со [стандартными соединителями](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors). Чтобы использовать [премиальные](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) или настраиваемые соединители и Dataverse, требуется дополнительная лицензия. В целях разработки и тестирования вы можете использовать [план разработчика Power Apps](https://powerapps.microsoft.com/developerplan). 
 
 Power Apps — это набор приложений, служб, соединителей и платформ данных, образующих среду для быстрой разработки собственных приложений с учетом уникальных бизнес-потребностей предприятия. С помощью Power Apps можно быстро создавать настраиваемые бизнес-приложения для подключения собственных бизнес-данных, хранящихся либо на базовой платформе (Common Data Service), либо в различных сетевых и локальных источниках, таких как SharePoint, Microsoft 365, Dynamics 365, SQL Server и т. д.
 
