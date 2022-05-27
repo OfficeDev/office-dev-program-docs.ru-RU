@@ -2,18 +2,18 @@
 title: Добро пожаловать в программу Microsoft 365 для разработчиков
 description: Присоединяйтесь к Программе разработчиков Microsoft 365, чтобы разрабатывать решения Microsoft 365 независимо от вашей производственной среды.
 ms.localizationpriority: high
-ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 2294565eb909f5fddcf69ddf3d70a3684df4f23b
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396695"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751504"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Добро пожаловать в программу разработчиков Microsoft 365
 
 В программу для разработчиков Microsoft 365 входит подписка разработчика Microsoft 365 E5, которую можно использовать для создания собственной песочницы и разработки решений, независимых от вашей производственной среды. Вы можете создавать приложения Microsoft Teams, надстройки Office для Word, Excel, PowerPoint, Outlook и надстройки SharePoint с помощью Microsoft Graph, SharePoint Framework, Power Apps и других приложений.
 
-У вас есть подписка на Visual Studio Pro или Enteprise? В этом случае вы можете воспользоваться дополнительными льготами, когда присоединитесь к программе; подробнее см. в [Присоединиться с помощью Visual Studio](join-with-visual-studio.md).
+У вас есть подписка на Visual Studio Pro или Enterprise? В этом случае вы можете воспользоваться дополнительными льготами, когда присоединитесь к программе; подробнее см. в [Присоединиться с помощью Visual Studio](join-with-visual-studio.md).
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Присоединяйтесь к программе разработчиков Microsoft 365
 
