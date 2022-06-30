@@ -2,12 +2,12 @@
 title: Добро пожаловать в программу Microsoft 365 для разработчиков
 description: Присоединяйтесь к Программе разработчиков Microsoft 365, чтобы разрабатывать решения Microsoft 365 независимо от вашей производственной среды.
 ms.localizationpriority: high
-ms.openlocfilehash: 2294565eb909f5fddcf69ddf3d70a3684df4f23b
-ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
+ms.openlocfilehash: 023815d9c7db62570b93c1af9c1d8eea13bf03ec
+ms.sourcegitcommit: b1185ed54490217e1777b182a1a7535b84a06dc4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/27/2022
-ms.locfileid: "65751504"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66241541"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Добро пожаловать в программу разработчиков Microsoft 365
 
@@ -54,5 +54,6 @@ ms.locfileid: "65751504"
 - После получения подписки разработчика [используйте ее](build-microsoft-365-solutions.md) для создания нужных типов решений.
 - Сведения о завершающихся подписках см. в статье [Окончание и продление срока действия подписки](subscription-expiration-and-renewal.md).
 - Часто задаваемые вопросы о программе Microsoft 365 Developer см. В разделе [часто задаваемых вопросов](microsoft-365-developer-program-faq.yml).
+- Изучите [документацию Microsoft 365 для разработчиков](/microsoft-365/developer).
 
 
