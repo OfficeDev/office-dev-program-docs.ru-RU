@@ -4,12 +4,12 @@ metadata:
   description: Ответы на часто задаваемые вопросы о программе для разработчиков Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: c38ca01848531ee656242f2cba6a005277dd714f
-  ms.sourcegitcommit: efbf5fcede882e7f333b3c6aa95d2fc30f7adafc
+  ms.openlocfilehash: 101afeb133b66641733573bc033ef1762162d839
+  ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/14/2022
-  ms.locfileid: "67675514"
+  ms.lasthandoff: 10/13/2022
+  ms.locfileid: "68570602"
 title: Вопросы и ответы о программе для разработчиков Microsoft 365
 summary: Ниже представлены вопросы и ответы о программе для разработчиков Microsoft 365.
 sections:
@@ -70,7 +70,7 @@ sections:
     answer: "В апреле 2019 г. мы перешли на новую модель, в которой подписку можно постоянно продлевать каждые 90 дней, если вы активно используете ее для разработки. Мы считаем, что эта модель обеспечивает наличие подписки для разработчиков, активно разрабатывающих решения, пока она требуется. Если вы часто выполняете разработку, срок действия вашей подписки никогда истечет; он автоматически продлевается. Если вы выполняете разработку в течение короткого периода времени и ваша подписка закончилась и была удалена, можно оформить новую. \n\nЕсли вы предпочитаете иметь подписку с более длительным сроком действия, рекомендуется получить подписку на Visual Studio Professional или Visual Studio Enterprise. Эти программы включают бесплатную подписку разработчика Microsoft 365, действующую в течение срока подписки на Visual Studio. Чтобы получить ее, перейдите на страницу [Visual Studio | My Benefits](https://my.visualstudio.com/benefits). За дополнительными сведениями обратитесь в [Центр обслуживания клиентов Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
       Как определяется, можно ли продлевать подписку?
-    answer: "Мы используем набор алгоритмов и данные телеметрии, получаемые о ваших действиях в программе для разработчиков Microsoft 365, а также в подписке разработчика Office 365 E3 или Microsoft 365 E5, чтобы определить, осуществляете ли вы активную разработку. Это проверка выполняется регулярно, чтобы обновлять ваше состояние и определять, следует ли продлевать подписку. \n\nЕсли вы считаете, что мы неправильно учли ваши действия по разработке, можете сообщить нам через панель мониторинга. Чтобы отправить форму, сообщающую о том, как вы используете свою подписку для разработки, в предупреждении панели мониторинга щелкните ссылку **Сообщите нам**, как показано на рисунке ниже. Мы рассмотрим ваш запрос и сообщим, имеете ли вы право на продление. \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
+    answer: "We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Office 365 E3 or Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. \n\nЕсли вы считаете, что мы неправильно учли ваши действия по разработке, можете сообщить нам через панель мониторинга. Чтобы отправить форму, сообщающую о том, как вы используете свою подписку для разработки, в предупреждении панели мониторинга щелкните ссылку **Сообщите нам**, как показано на рисунке ниже. Мы рассмотрим ваш запрос и сообщим, имеете ли вы право на продление. \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
   - question: >
       Как определяются действия по разработке?
     answer: "Ваши действия в программе для разработчиков и подписке разработчика определяют, осуществляете ли вы активную разработку и следует ли продлить вашу подписку. \n\nДополнительные сведения о типах отслеживаемых действий см. в [условиях использования](terms-and-conditions.md). \n"
@@ -80,13 +80,13 @@ sections:
   - question: >
       Если срок действия моей подписки завершается, сколько у меня есть времени до ее удаления?
     answer: >
-      Для переноса данных есть 30 дней после истечения срока действия подписки. В следующие 30 дней только администратор будет иметь доступ к подписке, а на 60 день подписка и все данные будут удалены.
+      You have 30 days after your subscription expires to migrate any data. For the next 30 days, only the admin will have access to the subscription, and on day 60, the subscription and all data will be deleted.
 
 
       <a name="account-types"> </a>
   - question: >
       Как перейти с подписки Office 365 E3 на подписку Microsoft 365 E5?
-    answer: "В настоящее время только новые участники программы для разработчиков Microsoft 365 автоматически получают подписку разработчика Microsoft 365 E5. Существующим пользователям будет предложено перейти на подписку Microsoft 365 E5 подписки. \n\nЕсли вы решили перейти на подписку Microsoft 365 E5, вы можете использовать бесплатное средство [Microsoft Mover](https://mover.io/) для переноса данных. См. также следующие ресурсы:\n\n- [Перенос почтовых ящиков из одного клиента Microsoft 365 в другой](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Использование PowerShell для выполнения поэтапной миграции в Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Миграция контента в Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
+    answer: "В настоящее время только новые участники программы для разработчиков Microsoft 365 автоматически получают подписку разработчика Microsoft 365 E5. Существующим пользователям будет предложено перейти на подписку Microsoft 365 E5 подписки. \n\nЕсли вы решили перейти на подписку Microsoft 365 E5, вы можете использовать бесплатное средство [Microsoft Mover](https://mover.io/) для переноса данных. См. также следующие ресурсы:\n\n- [Перенос почтовых ящиков из одного клиента Microsoft 365 в другой](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Использование PowerShell для выполнения поэтапной миграции в Office 365](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Миграция контента в Microsoft 365](/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       Следует ли выбрать мгновенную песочницу или настраиваемую песочницу?
     answer: "При выборе готовой песочницы вы можете сократить время настройки песочницы с нескольких дней до секунд. В мгновенной песочнице Microsoft 365 предварительно подготовлены Microsoft Teams, SharePoint, Outlook и Office. Кроме того, она содержит лицензии для 24 тестовых пользователей и одного администратора, а также новейшие приложения Microsoft 365 для ПК и Mac, включая Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection и Azure Active Directory.\n\nКроме того, вы получаете предварительно установленные образцы данных, включая новый пример пакета данных Teams, который имитирует небольшую корпоративную среду, помогая создавать решения на платформе Microsoft 365. Подробнее см. в статье \"Примеры данных песочницы для разработчиков\".\n\nПри выборе настраиваемой песочницы будет пустая песочница, которую необходимо заполнить образцами данных. Подготовка этой песочницы может занять до двух дней. Вы можете установить примеры пакетов данных, доступные на панели мониторинга программы разработчика. С помощью этого параметра можно настроить доменное имя. \n"
@@ -138,7 +138,7 @@ sections:
       3. В окне подтверждения **удаления профиля** нажмите кнопку **Удалить**.
   - question: >
       Поддержка
-    answer: "Если у вас возникли проблемы при настройке подписки, ознакомьтесь со следующими ресурсами поддержки:\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n- [Центр обслуживания клиентов Visual Studio](https://www.visualstudio.com/subscriptions/support/)\n"
+    answer: "Если у вас есть проблемы при настройке подписки, см. следующий ресурс поддержки:\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n"
   - question: >
       См. также
     answer: >-
