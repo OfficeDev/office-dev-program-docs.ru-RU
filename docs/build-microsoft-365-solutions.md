@@ -2,12 +2,12 @@
 title: Создание решений Microsoft 365 с помощью подписки для разработчиков
 description: Используйте подписку для разработчиков Microsoft 365, чтобы создавать нужные решения.
 ms.localizationpriority: high
-ms.openlocfilehash: 75dab54d4dada18663eed11b3ed6a937a3d753cd
-ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
-ms.translationtype: HT
+ms.openlocfilehash: 2450b0dee53ca7a8bdaf90beea3cb08f9e2dea36
+ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2022
-ms.locfileid: "66827292"
+ms.lasthandoff: 10/13/2022
+ms.locfileid: "68570595"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Создание решений Microsoft 365 с помощью подписки для разработчиков
 
@@ -49,15 +49,16 @@ Microsoft Teams - это рабочее пространство на основ
 
 ## <a name="office-add-ins"></a>Надстройки Office
 
-Платформу надстроек Office можно использовать для создания решений, которые расширяют возможности приложений Office и взаимодействуют с содержимым документов Office. В случае надстроек Office можно использовать привычные веб-технологии, например HTML, CSS и JavaScript, для взаимодействия с Word, Excel, PowerPoint, OneNote, Project и Outlook, а также для расширения возможностей этих приложений. Ваше решение может работать в Office на нескольких платформах, включая Office для Windows, Office Online, Office для Mac и Office для iPad.
+You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
 
 Чтобы настроить среду разработки и создать первую надстройку, см. статью [Краткие руководства по надстройкам Office](/office/dev/add-ins/).
 
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 
-Платформа SharePoint Framework (SPFx) — это модель страниц и веб-частей, которая обеспечивает полную поддержку клиентской разработки SharePoint, простую интеграцию с данными SharePoint и поддержку инструментов с открытым кодом. Благодаря платформе SharePoint Framework вы можете использовать современные веб-технологии и инструменты в любой среде разработки для создания полезных компонентов и адаптивных приложений, готовых к работе на мобильных устройствах.
+The SharePoint Framework (SPFx) is a page and web part model that provides full support for client-side SharePoint development, easy integration with SharePoint data, and support for open source tooling. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready.
 
-Чтобы автоматически настроить песочницу для пробного использования сценариев SharePoint, установите пример пакета данных SharePoint. Дополнительные сведения см. в следующих статьях:
+To automatically configure your sandbox to try out different SharePoint templates and scenarios, install the SharePoint sample data pack.
+For more details, see:
 
 - [Установка примеров пакетов данных](install-sample-packs.md)
 - [Настройка подписки разработчика на SPFx](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -76,7 +77,7 @@ Microsoft Teams - это рабочее пространство на основ
 
 ## <a name="power-apps"></a>Power Apps
 
-Power Apps для Office 365 входит в вашу лицензию на подписку разработчика Microsoft 365 E5. Это означает, что вы можете создавать и тестировать неограниченные приложения со [стандартными соединителями](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors). Чтобы использовать [премиальные](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) или настраиваемые соединители и Dataverse, требуется дополнительная лицензия. В целях разработки и тестирования вы можете использовать [план разработчика Power Apps](https://powerapps.microsoft.com/developerplan). 
+Power Apps для Office 365 входит в вашу лицензию на подписку разработчика Microsoft 365 E5. Это означает, что вы можете создавать и тестировать неограниченные приложения со [стандартными соединителями](/connectors/connector-reference/connector-reference-standard-connectors). Чтобы использовать [премиальные](/connectors/connector-reference/connector-reference-premium-connectors) или настраиваемые соединители и Dataverse, требуется дополнительная лицензия. В целях разработки и тестирования вы можете использовать [план разработчика Power Apps](https://powerapps.microsoft.com/developerplan). 
 
 Power Apps — это набор приложений, служб, соединителей и платформ данных, образующих среду для быстрой разработки собственных приложений с учетом уникальных бизнес-потребностей предприятия. С помощью Power Apps можно быстро создавать настраиваемые бизнес-приложения для подключения собственных бизнес-данных, хранящихся либо на базовой платформе (Common Data Service), либо в различных сетевых и локальных источниках, таких как SharePoint, Microsoft 365, Dynamics 365, SQL Server и т. д.
 
